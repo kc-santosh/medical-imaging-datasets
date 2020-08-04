@@ -1,6 +1,6 @@
-# Medical imaging datasets: fractured limbs 
+# Medical imaging research dataset on fractured limbs 
 
-#### Research study on fractured limbs:
+#### Research study:
 5K+ CT Scans on Fractured Limbs: A Dataset for Medical Imaging Research
 
 
