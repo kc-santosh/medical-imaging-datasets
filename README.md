@@ -18,7 +18,7 @@ CT Scans, Medical Imaging, Fracture Limbs, Computer-Aided Detection, Computer-Ai
 #### What has been provided here (GitHub)?
 For now, maximum 2 cases per bonetype (Knee and/or Shoulder) has been uploaded. A complete dataset i.e. 5K+ CT scans from 24 patient-specific cases (with annotations) can be provided upon request. 
 
-Check statisitcal information (xlsx file) for more information about the dataset.
+Check statisitcal information (statistical-information.xlsx file) for more information about the dataset.
 
 #### Where can you read/access our manuscript?
 It is under review. Thank you for your patience. 
