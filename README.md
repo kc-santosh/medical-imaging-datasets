@@ -24,12 +24,9 @@ Check statisitcal information (statistical-information.xlsx file) for more infor
 It is under review. Thank you for your patience. 
 
 #### Do you need more information?
-If yes, contact me: 
-KC Santosh, PhD
-
-Chair & Associate Professor, Computer Science,
-
-University of South Dakota
-
+If yes, contact me: <br>
+KC Santosh, PhD <br>
+Chair & Associate Professor, Computer Science,<br>
+University of South Dakota<br>
 Email: santosh.kc@usd.edu and/or santosh.kc@ieee.org
 
