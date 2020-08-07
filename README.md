@@ -3,7 +3,6 @@
 #### Research study:
 5K+ CT Scans on Fractured Limbs: A Dataset for Medical Imaging Research
 
-
 #### Gist of the work:
 Imaging techniques widely use Computed Tomography (CT) scans for various purposes, such as screening, diagnosis, and decision-making. Of all, it holds true for bone injuries. To build fully automated Computer-Aided Detection (CADe) and Diagnosis (CADx) tools and techniques, it requires fairly large amount of data (with gold standard). 
 
