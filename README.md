@@ -18,12 +18,14 @@ For now, maximum 2 cases per bonetype (Knee and/or Shoulder) has been uploaded. 
 
 Check statisitcal information (statistical-information.xlsx file) for more information about the dataset.
 
-#### Where can you read/access our manuscript?
+#### Publication
 5K+ CT Images on Fractured Limbs: A Dataset for Medical Imaging Research. <b>Journal of Medical Systems </b>45, 51 (2021). https://doi.org/10.1007/s10916-021-01724-9
 
-#### Publication & dataset related readme file
-[research-paper-ct-images-joms-2021.pdf](https://github.com/kc-santosh/medical-imaging-datasets/files/7170725/kc-darshan-ct-images-joms.pdf) & 
-[readme-dataset.pdf](https://github.com/kc-santosh/medical-imaging-datasets/files/7170703/readme-dataset.pdf)
+Download authors copy from here: [research-paper-ct-images-joms-2021.pdf](https://github.com/kc-santosh/medical-imaging-datasets/files/7170725/kc-darshan-ct-images-joms.pdf). 
+
+#### Dataset and readme file
+[Dataset-link](https://coyotesusd-my.sharepoint.com/:f:/g/personal/santosh_kc_usd_edu/Ep8PkHOdn05InkbQGo-W1BYByeSS0OAwhPD3oTkUsBz9LA) &  
+[readme-dataset.pdf](https://github.com/kc-santosh/medical-imaging-datasets/files/7170703/readme-dataset.pdf).
 
 #### Contact
 Contact me at santosh.kc@usd.edu and/or santosh.kc@ieee.org (KC Santosh, PhD, Chair, Department of Computer Science, The University of South Dakota).
