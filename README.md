@@ -27,6 +27,7 @@ Download authors copy from here: [research-paper-ct-images-joms-2021.pdf](https:
 For password (dataset), contact me.
 
 ## Contact 
-KC Santosh, PhD, Chair, Department of Computer Science, The University of South Dakota<br>
+KC Santosh, PhD<br>
+Chair, Department of Computer Science, The University of South Dakota<br>
 email: santosh.kc@usd.edu | santosh.kc@ieee.org
 
