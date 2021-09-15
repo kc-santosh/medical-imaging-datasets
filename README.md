@@ -1,3 +1,4 @@
+
 # Medical imaging research dataset on fractured limbs 
 
 #### Research study:
@@ -19,6 +20,9 @@ Check statisitcal information (statistical-information.xlsx file) for more infor
 
 #### Where can you read/access our manuscript?
 5K+ CT Images on Fractured Limbs: A Dataset for Medical Imaging Research. <b>Journal of Medical Systems </b>45, 51 (2021). https://doi.org/10.1007/s10916-021-01724-9
+
+
+[readme-dataset.pdf](https://github.com/kc-santosh/medical-imaging-datasets/files/7170703/readme-dataset.pdf)
 
 #### Contact
 Contact me at santosh.kc@usd.edu and/or santosh.kc@ieee.org (KC Santosh, PhD, Chair, Department of Computer Science, The University of South Dakota).
