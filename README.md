@@ -18,10 +18,7 @@ For now, maximum 2 cases per bonetype (Knee and/or Shoulder) has been uploaded. 
 Check statisitcal information (statistical-information.xlsx file) for more information about the dataset.
 
 #### Where can you read/access our manuscript?
-5K+ CT Images on Fractured Limbs: A Dataset for Medical Imaging Research. 
-## Journal of Medical Systems 
-45, 51 (2021). 
-https://doi.org/10.1007/s10916-021-01724-9
+5K+ CT Images on Fractured Limbs: A Dataset for Medical Imaging Research. <b>Journal of Medical Systems </b>45, 51 (2021). https://doi.org/10.1007/s10916-021-01724-9
 
 #### Contact
 Contact me at santosh.kc@usd.edu and/or santosh.kc@ieee.org (KC Santosh, PhD, Chair, Department of Computer Science, The University of South Dakota).
