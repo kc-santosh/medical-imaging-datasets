@@ -21,7 +21,8 @@ Check statisitcal information (statistical-information.xlsx file) for more infor
 #### Where can you read/access our manuscript?
 5K+ CT Images on Fractured Limbs: A Dataset for Medical Imaging Research. <b>Journal of Medical Systems </b>45, 51 (2021). https://doi.org/10.1007/s10916-021-01724-9
 
-
+#### Publication & dataset related readme file
+[research-paper-ct-images-joms-2021.pdf](https://github.com/kc-santosh/medical-imaging-datasets/files/7170725/kc-darshan-ct-images-joms.pdf) & 
 [readme-dataset.pdf](https://github.com/kc-santosh/medical-imaging-datasets/files/7170703/readme-dataset.pdf)
 
 #### Contact
