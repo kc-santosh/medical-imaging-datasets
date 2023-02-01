@@ -17,7 +17,7 @@ CT Scans, Medical Imaging, Fracture Limbs, Computer-Aided Detection, Computer-Ai
 For now, maximum 2 cases per bonetype (Knee and/or Shoulder) has been uploaded. A complete dataset i.e. 5K+ CT images from 24 patient-specific cases (with annotations) can be provided upon request. Check statisitcal information (statistical-information.xlsx file) for more information about the dataset.
 
 #### Publication
-5K+ CT Images on Fractured Limbs: A Dataset for Medical Imaging Research. <b>Journal of Medical Systems </b>45, 51 (2021). https://doi.org/10.1007/s10916-021-01724-9
+5K+ CT Images on Fractured Limbs: A Dataset for Medical Imaging Research. <b>Journal of Medical Systems </b>45, 51 (2021). URL: https://doi.org/10.1007/s10916-021-01724-9
 
 Download authors copy from here: [research-paper-ct-images-joms-2021.pdf](https://github.com/kc-santosh/medical-imaging-datasets/files/7170725/kc-darshan-ct-images-joms.pdf). 
 
